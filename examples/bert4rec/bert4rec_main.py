@@ -484,6 +484,7 @@ def main(argv: List[str]) -> None:
         nhead=args.nhead,
         num_layers=args.num_layers,
     ).to(device)
+
     if use_dmp:
         fused_params: Dict[str, Any] = {}
         fused_params["optimizer"] = EmbOptimType.ADAM
