@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d2cca64-5ecc-4efd-8637-b007ec93cbc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/torchrec.handson/fx_cannot_controlflow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/bert4rec/bert4rec_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/bert4rec/bert4rec_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
